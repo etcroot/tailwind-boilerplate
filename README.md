@@ -6,7 +6,7 @@ It's using the latest technology [Tailwind JIT](https://github.com/tailwindlabs/
 
 Open the index.html using the live server extension from the VSCode marketplace.
 
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+VS Marketplace Link: [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 To open the index.html file in a live server simply do the following
 
