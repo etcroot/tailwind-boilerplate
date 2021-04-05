@@ -1,8 +1,8 @@
-# tailwind-boilerplate
+# 🚀 Tailwind Boilerplate
 A template to use for experimenting with tailwind.
 It's using the latest technology [Tailwind JIT](https://github.com/tailwindlabs/tailwindcss-jit)
 
-# Instructions
+# 📜 Instructions
 
 Open the index.html using the live server extension from the VSCode marketplace.
 
