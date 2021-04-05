@@ -18,4 +18,5 @@ To open the index.html file in a live server simply do the following
 - To run the app with live css compiling use the `npm run build:css` command which will automatically watch for live changes.
 
 Hope you enjoy!
+
 Regards, etcroot.
