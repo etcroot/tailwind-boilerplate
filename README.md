@@ -8,7 +8,7 @@ Open the index.html using the live server extension from the VSCode marketplace.
 
 VS Marketplace Link: [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-To open the index.html file in a live server simply do the following
+To open & run this app properly, do the following:
 
 - Run `npm install` to install the dependencies.
 - Install the extension
